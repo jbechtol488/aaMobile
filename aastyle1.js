@@ -1,4 +1,3 @@
-// im a comment form lane
 $(document).ready(
 	function() {
 		aastyle1();
